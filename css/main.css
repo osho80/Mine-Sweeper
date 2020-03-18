@@ -1,0 +1,23 @@
+* {
+    background-color: #999;
+}
+
+.board {
+    position: absolute;
+}
+
+td {
+    width: 40px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+/* .unturned {
+    position: absolute;
+} */
+
+button {
+    width: 100px;
+    
+}
