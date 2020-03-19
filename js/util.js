@@ -17,11 +17,3 @@ if (document.addEventListener) {
     });
 }
 
-
-function handleKey(ev) {
-    // TODO: close the modal if escape is pressed
-    console.log('ev:', ev);
-    
-    if(ev.key === 'Escape') closeModal();
-
-}
